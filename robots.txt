@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/  
+Allow: /
+
+Sitemap: https://techwaveconsultancy.netlify.app/sitemap.xml
