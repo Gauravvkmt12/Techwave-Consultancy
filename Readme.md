@@ -22,7 +22,7 @@ Techwave Consultancy is a responsive, fully-featured website that offers various
 - Modern UI/UX
 - Service sections showcasing various IT services
 - Contact form with validation
-- Testimonials carousel for client feedback
+- **Swiper.js** carousel for testimonials and other sliding content
 
 ## Technologies Used
 
@@ -31,7 +31,7 @@ Techwave Consultancy is a responsive, fully-featured website that offers various
 - **JavaScript**: For dynamic elements and interactions.
 - **Bootstrap 5**: For responsive design and layout.
 - **Font Awesome 6**: For icons.
-- **Owl Carousel**: For interactive carousels.
+- **Swiper.js**: For creating interactive carousels and sliders.
 
 ## Installation
 
